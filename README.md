@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-name="My Forever Sunshine" tvg-logo="https://encurtador.com.br/wko6d" ,01
 https://gdriveplayer.to/hlsplaylists.php?idhls=OS9Wc3dJN0hBaUl0ZGlNaE1kNmoyZEcySlpma0FaWTUwZk5GcTFpTDFtSXFzUFZTMnBWdlNoTGQyUjlKNDBMNQ==.m3u8
 #EXTINF:-1 tvg-name="My Forever Sunshine" tvg-logo="https://encurtador.com.br/wko6d" ,02
